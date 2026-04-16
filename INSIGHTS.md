@@ -1,0 +1,9 @@
+Task 1 Insights: Regardless of order status, the top 5 customers were ranked by total spend. The top performing customers order the most product, at the highest frequency. Jacob Foster is a high-performing customer with $8722 total spend. This could help the company analyze loyal and high-spending customers like Jacob, and approach the low-spending customers with a more specific market to increase overall sales. 
+
+Task 2 Insights: If ordering by product type, the company can observe lowest selling items and market it to the customers for more proportionate sales (by products) if necessary. The company is able to identify the top-revenue generating category. The top-revenue generating category is Electronics, generating $25364, compared to Stationery, on the lower end, at just $319.
+
+Task 3: The results highlight salary variation across departments, with only a subset of employees earning above department average. This indicates uneven compensation and distribution within teams. Deparment averages can be influenced by high outliers, with the data indicating skewed disttribution amongst salary, rather than an even spread.
+
+ For example, most departments represent individual employee salaries closely relating to the department average. Although, Maya in the IT department and Alice in the Sales department both make significantly more than their department averages. With this info, IT and Sales could be presented as competitive departments, with higher opportunities to increase one's salary 
+
+Task 4 Insights: Gold customers are concentrated in fewer cities, high gold count represets stronger customer retention markets in those cities. Tampa is a city with a higher gold customer count.
