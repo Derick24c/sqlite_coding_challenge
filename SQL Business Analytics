@@ -1,0 +1,42 @@
+This project uses SQL and SQL Lite to analyze business data and answer business operational questions. By querying a relational database, 
+the project uncovers insights related to customer behavior, revenue trends, employee compensation, and customer loyalty. 
+
+This goal is to demonstrate SQL profiency within real-world scenarios. 
+
+
+bais_sqlite_lab.db → Source database
+challenge.sql → Contains all SQL queries used to answer the business questions
+INSIGHTS.md → Written analysis and key findings from the queries
+
+Business Questions Solved
+
+1. Top 5 Customers by Total Spend
+
+Identifies the highest-value customers based on total purchase amount.
+
+2. Total Revenue by Product Category
+
+Analyzes which product categories generate the most revenue.
+
+3. Employees Earning Above Department Average
+
+Finds employees whose salaries exceed their department’s average, highlighting compensation differences.
+
+4. Cities with the Most Loyal Customers
+
+Determines which cities have the highest number of “Gold” loyalty customers.
+
+What I Learned
+How to write complex SQL queries using joins across multiple tables
+How to aggregate and analyze data using GROUP BY and HAVING
+How to translate raw query results into meaningful business insights
+The importance of data-driven decision making in real-world scenarios
+
+How to run project:
+
+Open the project in VS Code (or any SQLite-compatible tool)
+Install the SQLTools extension with the SQLite driver
+Load the bais_sqlite_lab.db database
+Open and execute queries from challenge.sql
+Review outputs and compare with insights in INSIGHTS.md
+
